@@ -36,9 +36,9 @@ Most recon tools are:
 ## 🎬 Demo
 
 
-```markdown
+
 ![Demo](screenshots/demo.gif)
-```
+
 ## ⚙️ Installation
 
 ### 🔹 Clone the Repository
@@ -221,11 +221,11 @@ reports/
 
 ## 📸 Screenshots
 
-```markdown
+
 ![Scan Output](screenshots/image1.png)
 ![summary](screenshots/imag2.png)
 ![CLI](screenshots/image.png)
-```
+
 
 ---
 
