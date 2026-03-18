@@ -35,7 +35,6 @@ Most recon tools are:
 
 ## 🎬 Demo
 
-> Add your demo GIF here
 
 ```markdown
 ![Demo](screenshots/demo.gif)
@@ -223,9 +222,9 @@ reports/
 ## 📸 Screenshots
 
 ```markdown
-![Scan Output](screenshots/scan.png)
-![Fuzzing](screenshots/fuzz.png)
-![AI Report](screenshots/report.png)
+![Scan Output](screenshots/image1.png)
+![summary](screenshots/imag2.png)
+![CLI](screenshots/image.png)
 ```
 
 ---
